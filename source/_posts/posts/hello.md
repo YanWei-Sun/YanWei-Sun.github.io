@@ -9,8 +9,7 @@ categories:
   - 分类2
 date: 2020-05-08 20:03:00
 ---
-### Hi! 
-### My name is Yanwei Sun. Welcome to my website, where you can know me in details.
+**Hi!  My name is Yanwei Sun. Welcome to my website, where you can know me in details.**
 
 # Basic
 **Name**:   Yanwei Sun (严伟 孙)
