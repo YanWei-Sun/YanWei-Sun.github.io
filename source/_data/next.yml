@@ -250,10 +250,14 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  Research: / || research/ || research
-  categories: /categories/ || th
-  archives: /archives/ || archive
-  about: /about/ || user
+  Research: / || Research/ || Research
+  #categories: /categories/ || th
+  Publication & Patent: /Publication & Patent/ || Publication & Patent
+  Teaching: /Teaching/ || Teaching
+  News: /News/ || News
+  Blog: /Blog/ || Blog
+  #archives: /archives/ || archive
+  #about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
