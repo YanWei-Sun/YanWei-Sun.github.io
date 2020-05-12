@@ -28,9 +28,9 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
+#tag_dir: tags
+#archive_dir: archives
+#category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
@@ -256,7 +256,7 @@ menu:
   Teaching: /Teaching/ || Teaching
   News: /News/ || News
   Blog: /Blog/ || Blog
-  test: /categories/分类1 || archive
+  #test: /categories/分类1 || archive
   #archives: /archives/ || archive
   #about: /about/ || user
   #schedule: /schedule/ || calendar
