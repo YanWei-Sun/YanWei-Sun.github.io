@@ -28,8 +28,9 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
-tag_dir: tags
+tag_dir: Research
 archive_dir: archives
+Publish_dir: publish
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
