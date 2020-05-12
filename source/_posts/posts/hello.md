@@ -1,6 +1,6 @@
 ---
-title: 你好世界
-url: hello_url
+title: Basic
+url: basic_url
 tags:
   - 标签1
   - 标签2
@@ -9,11 +9,15 @@ categories:
   - 分类2
 date: 2020-05-08 20:03:00
 ---
-# 你好
-世界！！！！
+### Hi! 
+### My name is Yanwei Sun. Welcome to my website, where you can know me in details.
 
-<!-- more -->
-这是阅读全文
+# Basic
+**Name**:   Yanwei Sun (严伟 孙)
 
-git push
-{% img /images/404.png %}
+**Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Overall GPA: 3.87/4.0 Second-year GPA: 96.3/100
+
+**Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
+
+**Contact Info**: yanweisun1202@gmail.com
