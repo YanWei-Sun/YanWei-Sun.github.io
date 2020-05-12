@@ -15,6 +15,5 @@
 
 ## Activities
 + **Visting Students to _University of Hong Kong_ & _The Hong Kong University of Science and Technology_,Jun,2020**
-+ **Review assistant in the 
-Projects review hold by State Administration for Science, Technology and Industry for National Defense,Jul,2020**
++ **Review assistant in the Projects review hold by State Administration for Science, Technology and Industry for National Defense,Jul,2020**
 + **Attending the Design Workshops,Beijing, where there were [Prof.Farrokh Mistree](http://https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en),[Prof.Janet K. Allen](http://https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en),...etc,Jul,2020**
