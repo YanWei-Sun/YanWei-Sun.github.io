@@ -22,7 +22,7 @@ ___
 ___
 # Research 
 
-I'm very interested in conducting researches and I plan to be a professor in the future.
+I'm eager to extend the frontier of knowledge and I plan to be a professor in the future.
 
 
 For **decision-making**, I'm supervised by Prof.Zhijun Ming, whose postdoctoral supervisor is [Farrokh Mistree](http://https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en). Specially, we are focused on the **crowdsourcing**.
