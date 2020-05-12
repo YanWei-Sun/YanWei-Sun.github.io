@@ -16,7 +16,7 @@ date: 2020-05-08 20:03:00
 **Name**:   Yanwei Sun (严伟 孙)
 
 **Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Overall GPA: 3.87/4.0 
+                        Overall GPA: 3.87/4.0    Second-year GPA: 96.3/100
 
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
