@@ -18,8 +18,7 @@ ___
 
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
-**Contact Info**: yanweisun1202@gmail.com
-                   [LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
+**Contact Info**: yanweisun1202@gmail.com ; [LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
 ___
 # Research 
 
