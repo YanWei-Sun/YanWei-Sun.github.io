@@ -250,7 +250,7 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  Research: / || Research/ || Research
+  Research: /Research/ || Research
   #categories: /categories/ || th
   Publication & Patent: /Publication & Patent/ || Publication & Patent
   Teaching: /Teaching/ || Teaching
