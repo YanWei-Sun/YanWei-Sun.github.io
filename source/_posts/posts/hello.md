@@ -19,3 +19,14 @@ date: 2020-05-012
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
 **Contact Info**: yanweisun1202@gmail.com
+
+# Research 
+
+I'm very interested in conducting researches and I plan to be a professor in the future.
+
+
+For **decision-making**, I'm supervised by Prof.Zhijun Ming, whose postdoctoral supervisor is [Farrokh Mistree](http://https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en). Specially, we are focused on the **crowdsourcing**.
+
+For **machine learning**, my mentor is Prof.[Boyu Wang](http://https://sites.google.com/site/borriewang/). To be specific, we use the **transfer learning** techniques on BCI(Brain Computer Interface) application.
+
+For **Robotics**, we focused on the **quadruped robot**, where we have one patent uner application(I as first inventor). This project was supervised by the Prof.[Jieliang Zhao](http://https://scholar.google.com/citations?user=KevJF0IAAAAJ&hl=zh-CN).
