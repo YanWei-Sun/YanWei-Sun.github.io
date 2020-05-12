@@ -1,6 +1,6 @@
 ---
-title: Basic
-url: basic_url
+title: Homwpage
+url: homepage_url
 tags:
   - 标签1
   - 标签2
