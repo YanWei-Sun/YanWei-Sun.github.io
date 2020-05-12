@@ -15,4 +15,5 @@ date: 2020-05-08 20:03:00
 <!-- more -->
 这是阅读全文
 
+git push
 {% img /images/404.png %}
