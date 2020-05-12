@@ -28,8 +28,8 @@ pretty_urls:
 # Directory
 source_dir: source
 public_dir: public
+tag_dir: tags
 archive_dir: archives
-Publish_dir: publish
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -250,7 +250,7 @@ darkmode: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  tags: /tags/ || tags
+  Research: / || research
   categories: /categories/ || th
   archives: /archives/ || archive
   about: /about/ || user
