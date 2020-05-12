@@ -12,7 +12,7 @@ date: 2020-05-12
 
 <img src="https://github.com/YanWei-Sun/YanWei-Sun.github.io/blob/source/source/images/config/yanwei_sun.jpg" width="400" height="400" align="middle" />
 
-**Hi!  My name is Yanwei Sun. Welcome to my website, where you can know me in details.**
+**Hi!  I'm Yanwei. Welcome to my website, where you can know me in details.**
 ___
 
 # Basic
