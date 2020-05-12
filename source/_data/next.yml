@@ -404,7 +404,7 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: true
-  comment: 坚持原创分享，您的支持将鼓励我继续创作!
+  #comment: 坚持原创分享，您的支持将鼓励我继续创作!
 
 reward:
   wechatpay: /images/config/wechatpay.jpg
