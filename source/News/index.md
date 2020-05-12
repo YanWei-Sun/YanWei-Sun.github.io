@@ -1,5 +1,3 @@
-#News
-----
 ## News
 
 **We submitted two patent application forms to the China Patent Office in March,2020.(I as first inventor)**
