@@ -1,2 +1,2 @@
-# 博客地址:
+# Personal Website:
 YanWei-Sun.github.io
