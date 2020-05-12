@@ -7,10 +7,10 @@ tags:
 categories:
   - 分类1
   - 分类2
-date: 2020-05-012
+date: 2020-05-12
 ---
 **Hi!  My name is Yanwei Sun. Welcome to my website, where you can know me in details.**
-
+___
 # Basic
 **Name**:   Yanwei Sun (严伟 孙)
 
@@ -19,7 +19,7 @@ date: 2020-05-012
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
 **Contact Info**: yanweisun1202@gmail.com
-
+___
 # Research 
 
 I'm very interested in conducting researches and I plan to be a professor in the future.
@@ -29,4 +29,5 @@ For **decision-making**, I'm supervised by Prof.Zhijun Ming, whose postdoctoral 
 
 For **machine learning**, my mentor is Prof.[Boyu Wang](http://https://sites.google.com/site/borriewang/). To be specific, we use the **transfer learning** techniques on BCI(Brain Computer Interface) application.
 
-For **Robotics**, we focused on the **quadruped robot**, where we have one patent uner application(I as first inventor). This project was supervised by the Prof.[Jieliang Zhao](http://https://scholar.google.com/citations?user=KevJF0IAAAAJ&hl=zh-CN).
+For **Robotics**, we focused on the **quadruped robot**, where we have one patent uner application(I as first inventor). This project was supervised by the Prof.[Jieliang Zhao](http://https://scholar.google.com/citations?user=KevJF0IAAAAJ&hl=zh-CN)
+___
