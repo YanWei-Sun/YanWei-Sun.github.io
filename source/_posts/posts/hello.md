@@ -20,8 +20,8 @@ ___
 
 **Contact Info**: yanweisun1202@gmail.com
 
-[
-LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
+&emsp; &emsp; &emsp;  [
+        LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
 ___
 # Research 
 
