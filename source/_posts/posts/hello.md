@@ -19,9 +19,7 @@ ___
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
 **Contact Info**: yanweisun1202@gmail.com
-
-&emsp; &emsp; &emsp;  [
-        LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
+                   [LinkedIn](http://https://www.linkedin.com/in/yanwei-sun-2b28101a6/)
 ___
 # Research 
 
@@ -32,5 +30,5 @@ For **decision-making**, I'm supervised by Prof.Zhijun Ming, whose postdoctoral 
 
 For **machine learning**, my mentor is Prof.[Boyu Wang](http://https://sites.google.com/site/borriewang/). To be specific, we use the **transfer learning** techniques on BCI(Brain Computer Interface) application.
 
-For **Robotics**, we focused on the **quadruped robot**, where we have one patent uner application(I as first inventor). This project was supervised by the Prof.[Jieliang Zhao](http://https://scholar.google.com/citations?user=KevJF0IAAAAJ&hl=zh-CN) and Prof. Lingjia Kong.
+For **Robotics**, we focused on the **quadruped robot**, where we have one patent uner application(I as first inventor). This project was supervised by the Prof.[Jieliang Zhao](http://https://scholar.google.com/citations?user=KevJF0IAAAAJ&hl=zh-CN) and Prof. [Lingjia Kong](http://http://me-english.bit.edu.cn/people/faculty/k/125069.htm)
 ___
