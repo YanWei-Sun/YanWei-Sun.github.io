@@ -7,15 +7,14 @@ tags:
 categories:
   - 分类1
   - 分类2
-date: 2020-05-08 20:03:00
+date: 2020-05-012
 ---
 **Hi!  My name is Yanwei Sun. Welcome to my website, where you can know me in details.**
 
 # Basic
 **Name**:   Yanwei Sun (严伟 孙)
 
-**Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology 
-                        Overall GPA: 3.87/4.0    Second-year GPA: 96.3/100
+**Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology, Overall GPA: 3.87/4.0    Second-year GPA: 96.3/100
 
 **Research Interest**: Decision-Making&emsp; Machine Learning&emsp; Robotics
 
