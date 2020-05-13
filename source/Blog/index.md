@@ -1,8 +1,18 @@
 ---
 title: Blog
-date: 2020-05-12
+date: 2020-05-13
 type: "Blog"
 ---
-# Study Method
-## Study Method 1
-# Research Method
+
+**_When you have decided to do something, then the result is not so important. What really matters is what have you lerant from this._**
+
+---
+
+## The Way of Thinking
+
+---
+
+## Study Method
+
+---
+
