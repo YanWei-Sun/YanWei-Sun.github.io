@@ -10,7 +10,7 @@ categories:
 date: 2020-05-12
 ---
 
-{% img /images/yanwei_sun.jpg %}
+{% img /images/yanwei_sun.jpg 200 300 %}
 
 **Hi!  I'm Yanwei. Welcome to my website, where you can know me in details.**
 ___
