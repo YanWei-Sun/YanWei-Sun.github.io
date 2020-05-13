@@ -29,8 +29,7 @@ In view of the above problems, on one hand, we introduce the **_Mid-term feedbac
 
 **June,2019-Now**
 
-In this project, we have 5 members and I'm the teamleader. Our mentors are  Prof.[Lingjia Kong](http://http://me-english.bit.edu.cn/people/faculty/k/125069.htm)
-and  Prof.[Jieliang Zhao](http://https://scholar.google.com/citations).
+In this project, we have 5 members and I'm the teamleader. Our mentors are  Prof.[Lingjia Kong](http://http://me-english.bit.edu.cn/people/faculty/k/125069.htm) and  Prof.[Jieliang Zhao](http://https://scholar.google.com/citations).
 
 With the aging of the social population increasing, the old people's need 
 for companionship and care is more and more prominent; after market research, it is 
