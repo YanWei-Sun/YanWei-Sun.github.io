@@ -8,6 +8,8 @@ type: "News"
 
 ## News
 
+**I will finish my fourth undergraduated year at [Vienna University of Technology](http://https://www.tuwien.at/en/) as an exchange student**
+
 **We submitted two patent application forms to the China Patent Office in March,2020.(I as first inventor)**
 
 ----
