@@ -403,12 +403,12 @@ tag_icon: false
 reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: false
-  animation: true
+  animation: false
   #comment: 
 
-reward:
-  wechatpay: /images/config/wechatpay.jpg
-  alipay: /images/config/alipay.jpg
+#reward:
+  #wechatpay: /images/config/wechatpay.jpg
+  #alipay: /images/config/alipay.jpg
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
