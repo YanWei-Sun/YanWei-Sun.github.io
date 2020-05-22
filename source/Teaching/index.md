@@ -10,5 +10,5 @@ type: "Teaching"
 ## Teaching Assistant
 **Feb,2020 --- Jun,2020**
 
-[Haosen Chen](http://https://www.researchgate.net/scientific-contributions/2163204826_Haosen_Chen)’s Mechanics of Materials class, Beijing Institute of Technology  
+[Haosen Chen](http://www.researchgate.net/scientific-contributions/2163204826_Haosen_Chen)’s Mechanics of Materials class, Beijing Institute of Technology  
 
