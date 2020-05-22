@@ -16,7 +16,7 @@ type: "Blog"
 
 ---
 
-## The Introduction to Industrial Engineering
+## A Brief Introduction to Industrial Engineering
 
 ---
 
