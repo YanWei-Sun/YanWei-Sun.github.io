@@ -1,9 +1,9 @@
 ---
 title: Research
-date: 2020-05-12 20:03:00
+date: 2020-06-08 20:03:00
 type: "Research"
 ---
-**I mainly interested in decision-making, Machine Learning and Roborics. This page will show the details about what I have done**
+**I mainly interested in decision-making, NLP and Roborics. This page will show the details about what I have done**
 
 ----
 
@@ -22,7 +22,7 @@ In view of the above problems, on one hand, we introduce the **_Mid-term feedbac
 
 ----
 
-# Machine Learning
+# NLP
 
 ----
 # Robotics
