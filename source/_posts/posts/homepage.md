@@ -28,7 +28,7 @@ ___
 
 I'm eager to extend the frontier of knowledge and I plan to be a professor in the future.
 
-For **natural language process**, my mentor is Prof.[Farrokh Mistree](https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en). To be specific, we're focused on using the techniques of NLP to investigate the **Enginering Education**.
+For **natural language process**, my mentor is Prof.[Farrokh Mistree](https://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en) and Prof.[Janet K. Allen](https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en). To be specific, we're focused on using the techniques of NLP to investigate the **Enginering Education**.
 
 For **decision-making**, I'm supervised by Prof.[Zhijun Ming](https://scholar.google.com/citations?user=x1ulAm4AAAAJ&hl=en), whose postdoctoral supervisor is [Farrokh Mistree](http://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en). Specially, we are focused on the **crowdsourcing**.
 
