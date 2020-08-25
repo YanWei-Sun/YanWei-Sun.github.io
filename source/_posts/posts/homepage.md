@@ -2,11 +2,11 @@
 title: Homwpage
 url: homepage_url
 tags:
-  - 标签1
-  - 标签2
+  - 
+  - 
 categories:
-   - 分类1
-   - 分类2
+   - 
+   - 
 date: 2020-6-08
 ---
 
@@ -16,9 +16,9 @@ date: 2020-6-08
 ___
 
 # Basic
-**Name**:   Yanwei Sun (孙严伟)
+**Name**:   Yanwei Sun (孙  严伟)
 
-**Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology, Overall GPA: 3.80/4.0；Fourth-semester GPA: 96.3/100
+**Education(Bachelor)**: Sept 2017 – Jun 2021,Industrial Engineering, Beijing Institute of Technology(BIT), Overall GPA 4.0/4.0
 
 **Research Interest**: Decision-Making&emsp; Natural Language Processing&emsp; Robotics
 
