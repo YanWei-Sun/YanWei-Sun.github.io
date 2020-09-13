@@ -2,11 +2,11 @@
 title: Homwpage
 url: homepage_url
 tags:
-  - 分类1
-  - 分类2
+  - 标签1
+  - 标签2
 categories:
-   - 3
-   - 4
+   - 分类1
+   - 分类2
 date: 2020-6-08
 ---
 
