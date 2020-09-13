@@ -8,10 +8,10 @@ type: "News"
 
 ## News
 
-**We submitted two patent application forms to the China Patent Office in March,2020.(I as first inventor)**
++ **We submitted two patent application forms to the China Patent Office in March,2020.(I as first inventor)**
 
 ----
-## Rewards
+## Awards
 + **2019 Outstanding Students Pacesetter of Beijing Institute of Technology**
 + **2019 China National Scholarship**
 + **The First Grade Prize in 2019 [Beijing Mathematical Modeling Competition](http://list.wiki/China_Undergraduate_Mathematical_Contest_in_Modeling)**
