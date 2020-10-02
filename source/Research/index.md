@@ -1,3 +1,9 @@
+---
+title: Research
+date: 2020-10
+type: "Research"
+---
+
 **_'Create something most useful or most beautiful'._**   This page presents my research experience (**up to Oct 2020**)
 
 ---
