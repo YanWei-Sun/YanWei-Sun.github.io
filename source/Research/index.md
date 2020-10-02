@@ -5,9 +5,14 @@ type: "Research"
 ---
 <center>**_'Create something most useful or most beautiful'._**</center>
 
-This page presents my research experience (up to Oct 2,2020)
+This page presents my research experience (up to Oct,2020)
 ----
 # Text Mining in Education
+
+**Mentor: Prof. Farrokh Mistree, Prof. Janet K. Allen **  <p align="right">**July,2020 - Oct 2020**</p>
+
+
+
 
 ----
 # Decision-Making in Crowdsourcing
