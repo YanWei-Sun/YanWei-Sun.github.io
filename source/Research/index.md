@@ -1,17 +1,11 @@
----
-title: Research
-date: 2020-10-2
-type: "Research"
----
-<center>**_'Create something most useful or most beautiful'._**</center>
+**_'Create something most useful or most beautiful'._**   This page presents my research experience (**up to Oct 2020**)
 
-This page presents my research experience (up to Oct,2020)
-----
+---
 # Text Mining in Education
 
-**Mentor: Prof. Farrokh Mistree, Prof. Janet K. Allen **  <p align="right">**July,2020 - Oct 2020**</p>
+**Mentor: *Prof. [Farrokh Mistree](http://http://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en)* & *Prof. [Janet K. Allen](http://https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en)***  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July,2020 - Oct 2020**
 
-
+In education, it's imperative for instructors to figure out to which degree does students' learning matches the target learning. We have roughly ten thousands data cases,collected from the course AME4163: Principle of Engineering Design (POED) at University of Oklahoma (OU). These data could reflecte what the students focus (Take Away data) in the course and the target lerning (POED data) of the course. However, it's impossible to mannualy analyze these data and provide insights from the data for the instructor to modify the course. 
 
 
 ----
@@ -45,12 +39,3 @@ elderly, and better alleviating the emotional problems of the elderly can be ach
 For this project, I'm responsible for the **_leg movement_**. Specically, I adopted the **cam structure** to realize the movement of the mechanical dog,which can make the robot dog touch the three legs at the same time when walking, and the trajectory of the foot end is an ellipse plus a straight line.which will increase the stability when walking.
 
 **Now we have two patents under application about this mechanical dog (I as the first inventor)**
-
-----
-
-
-
-
-
-
-
