@@ -18,3 +18,12 @@ ___
 **Research Interest**: Decision-Making&emsp; Text/Data Mining&emsp; Machine Reasoning/Learning
 
 **Contact Info**: yanweisun1202@gmail.com ; [LinkedIn](http://www.linkedin.com/in/yanwei-sun-2b28101a6/)
+
+**Selected Awards/Honors**:
+
+- China National Scholarship for Undergraduate Students (2019,2020)
+- Outstanding Students Pacesetter of Beijing Institute of Technology (2019)
+- The First Grade Prize in 2019 Beijing Mathematical Modeling Competition (2019)
+- The Third Grade Prize in 2018 GlOBAL MANAGEMENT CHALLENGE (2018)
+
+
