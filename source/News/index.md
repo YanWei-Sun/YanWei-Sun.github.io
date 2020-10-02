@@ -1,7 +1,7 @@
 ---
-title: News & Awards
+title: News
 date: 2020-05-13
-type: "News & Awards"
+type: "News"
 ---
 
 
