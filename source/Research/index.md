@@ -1,10 +1,11 @@
 ---
 title: Research
-date: 2020-06-08 20:03:00
+date: 2020-10-2
 type: "Research"
 ---
-**_'Create something most useful or most beautiful'._**
+<center>**_'Create something most useful or most beautiful'._**</center>
 
+This page presents my research experience (up to Oct 2,2020)
 ----
 # Text Mining in Education
 
