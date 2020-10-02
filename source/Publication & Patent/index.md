@@ -5,6 +5,7 @@ type: "Publication & Patent"
 ---
 # Patent
 
+- Yanwei Sun, Wenhao Yang, Lingjia Kong, Jieliang Zhao. A Cam linkage type quadruped walking machine. CN111332383A
 
 # Conference
 
