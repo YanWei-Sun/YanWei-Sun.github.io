@@ -4,9 +4,6 @@ url: homepage_url
 tags:
   - 标签1
   - 标签2
-categories:
-   - 分类1
-   - 分类2
 date: 2020-6-08
 ---
 
