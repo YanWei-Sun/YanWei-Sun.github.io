@@ -46,7 +46,7 @@ Also, given the total prize of the contest, the duration and the number of parti
 {% img /images/Crowdsourcing/example.png %} 
 
 ----
-# Robotics
+# Robotic Design
 
 **Mentor: *Prof. [Jieliang Zhao](http://scholar.google.com/citations).* & *Prof. [Lingjia Kong](http://me-english.bit.edu.cn/people/faculty/k/125069.htm)***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June,2020 - Oct 2020**
 
