@@ -23,7 +23,7 @@ We also find that although two instructors adopted the same courses slide and th
 {% img /images/Text_Mining/A3_Scattertext.PNG %}  
 
 ----
-# Decision-Making in Crowdsourcing
+# Game Theory in Crowdsourcing
 
 **Mentor: *Prof. [Zhijun Ming](https://scholar.google.com/citations?user=x1ulAm4AAAAJ&hl=en))***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Jan,2020 - Oct 2020**
 
