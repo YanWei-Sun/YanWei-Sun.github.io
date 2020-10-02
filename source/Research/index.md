@@ -17,7 +17,10 @@ In education, it's imperative for instructors to figure out to which degree does
 Latent Dirichlet Allocation (LDA) is a generative, probabilistic model for *topics modeling*. In our framework, we use LDA to extract each Take Away document's topic (the distributio of topics and each topic is a distribution of words). However, our POED doucment are very short, which LDA is not suitable for. Thus, we utilize TF-IDF each POED document's key words, and identify each POED's weight in each topic by calcauling cosine similarity between the vector of each POED and vector of each topic.
 
 Our result shows that except assignment 4, students performed well in both sections (different sections mean different instructors). After diving into the courses, we find that the instructive book of the book has a wrong target learning content, which misleads the students. 
-{% img /images/Text_Mining/section1.png 350 300 %}   {% img /images/Text_Mining/sectionII 350 300 %}   
+{% img /images/Text_Mining/section1.png 350 300 %}   {% img /images/Text_Mining/sectionII.png 350 300 %}   
+
+We also find that although two instructors adopted the same courses slide and the same instructive book, students in assignment 3 had a quite different performance between section 1 and section 2. Then, we use Scattertext, which is powerful python library to visualize the difference between documents, to show the difference between these two sections. 
+{% img /images/Text_Mining/A3_Scattertext.PNG 350 300 %}  
 
 ----
 # Decision-Making in Crowdsourcing
