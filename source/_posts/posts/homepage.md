@@ -1,9 +1,6 @@
 ---
 title: Homwpage
 url: homepage_url
-tags:
-  - 标签1
-  - 标签2
 date: 2020-6-08
 ---
 
