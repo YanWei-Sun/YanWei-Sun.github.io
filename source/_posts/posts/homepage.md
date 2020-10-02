@@ -6,7 +6,7 @@ date: 2020-6-08
 
 {% img /images/yanwei_sun.jpg 350 300 %}
 
-**Hi!  This Yanwei Sun (严伟 孙). Welcome to my website, where you can know me in details.**
+**Hi!  This is Yanwei Sun (严伟 孙). Welcome to my website, where you can know me in details.**
 ___
 
 **Contact Info**: yanweisun1202@gmail.com ; [LinkedIn](http://www.linkedin.com/in/yanwei-sun-2b28101a6/)
