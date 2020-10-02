@@ -9,10 +9,15 @@ type: "Research"
 ---
 # Text Mining in Education
 
-**Mentor: *Prof. [Farrokh Mistree](http://http://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en)* & *Prof. [Janet K. Allen](http://https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en)***  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July,2020 - Oct 2020**
+**Mentor: *Prof. [Farrokh Mistree](http://http://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en)* & *Prof. [Janet K. Allen](http://https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en)***    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July,2020 - Oct 2020**
 
 In education, it's imperative for instructors to figure out to which degree does students' learning matches the target learning. We have roughly ten thousands data cases,collected from the course AME4163: Principle of Engineering Design (POED) at University of Oklahoma (OU). These data could reflecte what the students focus (Take Away data) in the course and the target lerning (POED data) of the course. However, it's impossible to mannualy analyze these data and provide insights from the data for the instructor to modify the course. 
 
+
+Latent Dirichlet Allocation (LDA) is a generative, probabilistic model for *topics modeling*. In our framework, we use LDA to extract each Take Away document's topic (the distributio of topics and each topic is a distribution of words). However, our POED doucment are very short, which LDA is not suitable for. Thus, we utilize TF-IDF each POED document's key words, and identify each POED's weight in each topic by calcauling cosine similarity between the vector of each POED and vector of each topic.
+
+Our result shows that except assignment 4, students performed well in both sections (different sections mean different instructors). After diving into the courses, we find that the instructive book of the book has a wrong target learning content, which misleads the students. 
+{% img /images/Text_Mining/section1.png 350 300 %}   {% img /images/Text_Mining/sectionII 350 300 %}   
 
 ----
 # Decision-Making in Crowdsourcing
