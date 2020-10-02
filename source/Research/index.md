@@ -25,30 +25,33 @@ We also find that although two instructors adopted the same courses slide and th
 ----
 # Decision-Making in Crowdsourcing
 
-**Jan,2020 - now**
+**Mentor: *Prof. [Zhijun Ming](https://scholar.google.com/citations?user=x1ulAm4AAAAJ&hl=en))***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Jan,2020 - Oct 2020**
 
-In this project, we focused on **crowdsourcing**, which is supervised by Prof. [Zhijun Ming](https://scholar.google.com/citations?user=x1ulAm4AAAAJ&hl=en)
 
-Crowdsourcing has been widely used as a way to facilitate open innovation where ideas from outside an orgranization are sought to supplement internal activities. For example, instead of hiring a research team to develop a better collaborative filtering algorithm, Netflix issued the 'Netflix challenge' offering a million doallors to the team that develops an algorithm that beats the Netflix algorithm by 10%. 
+Crowdsourcing has been widely used as a way to facilitate open innovation where ideas from outside an orgranization are sought to supplement internal activities. 
+Nearly all of the current theoritical frameworks of crowsourcing is one stage, where participants just need to sumbit their works one time before the fineal deadline. However, some crowdsourcing platforms has adopted two-stages contests. In order to fill in the gap from mathetical perspective, **we have the following questions to address**:
 
-Nearly all of the current frameworks of crowsourcing is **_Once submitted_**, which means the particpants just need to sumbit their wokrs once before the  fineal deadline. Also, most of the researches about crowdsourcing are still based on the **_hypothesis of rational man_**, which is the foundation of _game theory_. However, what if there exists multipe deadlines during the game? What if 
- the players are not rational or partly rational? 
+- **Whether two-stages crowdsourcing contest is better than one stage in terms of sponsor's pay-off**
+- **For sponsor how to set up the parameters(four as following) to maxmize his/her pay-off**
+  - **the ratio of total funding in stage-1(α) and stage-2 (1 − α)**
+  - **the duration of stage-1(T1) and stage-2(T2). (T1 + T2 = T)**
+  - **the rate of exclusion at the end of stage-1 (1 − β)**
 
-In view of the above problems, on one hand, we introduce the **_Mid-term feedback_** into the framework of crowsourcing; on the other hand, we try to quantify **_the level of irration_** mainly based on the [_Generalize Recursive Reasoning_](http://arxiv.org/abs/1901.09216), which I think is a milestone.  **_Mid-term feedback_** means the sponsor will set up mutiple deadlines during the game and the players need to submit their works before every deadline, even though the works unfinished;then the sponsor will public the ranking of works. By this, the players could gain more information about their competitors and based on these information to decide the next movement.
+We use game theory to model participants behaviors and build a theoritical 2-stages crowdsourcing contests model, which belongs to non-linear programming.
+
+Our result shows that based on our assumptions, such as the rational people, the 2-stages crowdsourcing will not worse than 1-stage. 
+{% img /images/Crowdsourcing/n_comparison.png %}   {% img /images/Crowdsourcing/PI_comparison.png %} 
+
+Also, given the total prize of the contest, the duration and the number of participants, we could provide the optimal parameters. One example is shown as following:
+{% img /images/Crowdsourcing/example.png %} 
 
 ----
 # Robotics
 
-**June,2019-Now**
+**Mentor: *Prof. [Jieliang Zhao](http://scholar.google.com/citations).* & *Prof. [Lingjia Kong](http://me-english.bit.edu.cn/people/faculty/k/125069.htm)***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June,2020 - Oct 2020**
 
-In this project, we have 5 members and I'm the teamleader. Our mentors are  Prof.[Lingjia Kong](http://me-english.bit.edu.cn/people/faculty/k/125069.htm) and  Prof.[Jieliang Zhao](http://scholar.google.com/citations).
 
-With the aging of the social population increasing, the old people's need 
-for companionship and care is more and more prominent; after market research, it is 
-found that there is no companion robot for the elderly in the market; based on this, a 
-**_smart companion robot dog_** was developed in this project. Through the functional
-design of the mechanical dog, the purpose of accompanying the elderly, caring for the 
-elderly, and better alleviating the emotional problems of the elderly can be achieved.
+With the aging of the social population increasing, the old people's need for companionship and care is more and more prominent; after market research, it is found that there is no companion robot for the elderly in the market; based on this, a **_smart companion robot dog_** was developed in this project. Through the functional design of the mechanical dog, the purpose of accompanying the elderly, caring for the elderly, and better alleviating the emotional problems of the elderly can be achieved.
 
 For this project, I'm responsible for the **_leg movement_**. Specically, I adopted the **cam structure** to realize the movement of the mechanical dog,which can make the robot dog touch the three legs at the same time when walking, and the trajectory of the foot end is an ellipse plus a straight line.which will increase the stability when walking.
 
