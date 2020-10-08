@@ -53,6 +53,8 @@ Also, given the total prize of the contest, the duration and the number of parti
 
 With the aging of the social population increasing, the old people's need for companionship and care is more and more prominent; after market research, it is found that there is no companion robot for the elderly in the market; based on this, a **_smart companion robot dog_** was developed in this project. Through the functional design of the mechanical dog, the purpose of accompanying the elderly, caring for the elderly, and better alleviating the emotional problems of the elderly can be achieved.
 {% img /images/overall structure_mechanical dog.png %} 
+
 For this project, I'm responsible for the **_leg movement_**. Specically, I adopted the **cam structure** to realize the movement of the mechanical dog,which can make the robot dog touch the three legs at the same time when walking, and the trajectory of the foot end is an ellipse plus a straight line.which will increase the stability when walking.
 {% img /images/leg_structure_mechanical dog.png %} 
+
 **Now we have two patents under application about this mechanical dog (I as the first inventor)**
