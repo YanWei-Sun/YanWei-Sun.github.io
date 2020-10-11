@@ -11,6 +11,9 @@ type: "Research"
 
 **Mentor: *Prof. [Farrokh Mistree](http://http://scholar.google.com/citations?user=l1N0Nj0AAAAJ&hl=en)* & *Prof. [Janet K. Allen](http://https://scholar.google.com/citations?user=oJNeHV0AAAAJ&hl=en)***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July,2020 - Oct 2020**
 
+* Submit the paper to [2021 American Society for Engineering Education Annual Conference](https://www.asee.org/).
+* Submit the paper to [Journal of Mechanical Design](https://asmedigitalcollection.asme.org/mechanicaldesign)
+
 In education, it's imperative for instructors to figure out to which degree does students' learning matches the target learning. We have roughly ten thousands data cases,collected from the course AME4163: Principle of Engineering Design (POED) at University of Oklahoma (OU). These data could reflecte what the students focus (Take Away data) in the course and the target lerning (POED data) of the course. However, it's impossible to mannualy analyze these data and provide insights from the data for the instructor to modify the course. To fill in this gap, we devise **a framework to automatically connect what students had learned to what they should learn, mainly based on Latent Dirichlet Allocation (LDA) and Term Frequency–Inverse Document Frequency (TF-IDF)**.
 
 
@@ -27,6 +30,7 @@ We also find that although two instructors adopted the same courses slide and th
 
 **Mentor: *Prof. [Zhijun Ming](https://scholar.google.com/citations?user=x1ulAm4AAAAJ&hl=en))***     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Jan,2020 - Oct 2020**
 
+* Submit the paper to [European Journal of Operational Research](https://www.journals.elsevier.com/european-journal-of-operational-research)
 
 Crowdsourcing has been widely used as a way to facilitate open innovation where ideas from outside an orgranization are sought to supplement internal activities. 
 Nearly all of the current theoritical frameworks of crowsourcing is one stage, where participants just need to sumbit their works one time before the fineal deadline. However, some crowdsourcing platforms has adopted two-stages contests. In order to fill in the gap from mathetical perspective, **we have the following questions to address**:
