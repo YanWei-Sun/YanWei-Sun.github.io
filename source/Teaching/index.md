@@ -8,7 +8,12 @@ type: "Teaching"
 ***
 
 ## Teaching Assistant
-**Feb,2020 --- Jun,2020**
 
-Mechanics of Materials class (121 students), 100014002-6120150138-01, Beijing Institute of Technology  
+Mechanics of Materials class (121 students), 100014002-6120150138-01, Beijing Institute of Technology    **Feb,2020 --- Jun,2020**
+
+* Give at least 4 hours lecture
+
+{% img /images/Teaching/OR1.jpg %}   {% img /images/Teaching/OR3.jpg %}  
+
+
 
