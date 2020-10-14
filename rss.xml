@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>YanWei-Sun</title>
+    <link>http://YanWei-Sun.github.io/</link>
+    
+    <atom:link href="http://yanwei-sun.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>YanWei-Sun</description>
+    <pubDate>Wed, 14 Oct 2020 03:10:44 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Homepage</title>
+      <link>http://yanwei-sun.github.io/posts/homepage_url.html</link>
+      <guid>http://yanwei-sun.github.io/posts/homepage_url.html</guid>
+      <pubDate>Tue, 13 Oct 2020 16:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;img data-src=&quot;/images/yanwei_sun.jpg&quot; class=&quot;&quot; width=&quot;350&quot; height=&quot;300&quot;&gt;
+
+&lt;p&gt;&lt;strong&gt;Hi!  This is Yanwei Sun. Welcome to my website, where </description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<img data-src="/images/yanwei_sun.jpg" class="" width="350" height="300"><p><strong>Hi!  This is Yanwei Sun. Welcome to my website, where you can know me in details.</strong></p><hr><p><strong>Contact Info</strong>: <a href="mailto:yanweisun1202@gmail.com">yanweisun1202@gmail.com</a> ; <a href="http://www.linkedin.com/in/yanwei-sun-2b28101a6/" target="_blank" rel="noopener">LinkedIn</a></p><p><strong>Education</strong>: </p><ul><li><strong>Bachelor</strong>: Sept 2017 – Jun 2021, Industrial Engineering, Beijing Institute of Technology(BIT), Overall GPA 4.0/4.0</li></ul><p><strong>Research Interest</strong>: Decision-Making&emsp; Text/Data Mining&emsp; Self Organizing System</p><p><strong>Selected Awards/Honors</strong>:</p><ul><li>Chinese National Scholarship for Undergraduate Students (2019,2020)</li><li>Outstanding Students Pacesetter of Beijing Institute of Technology (2019)</li><li>The Third Grade Prize in 2018 Globa Management Challenge(2018)</li><li>The First Grade Prize in 2019 Beijing Mathematical Modeling Competition (2019)</li></ul>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://yanwei-sun.github.io/posts/homepage_url.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
